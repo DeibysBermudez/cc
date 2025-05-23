@@ -1,1 +1,1 @@
-print ("vamos cucuta deportivo")
+print ("vamos cucuta deportivo.")
